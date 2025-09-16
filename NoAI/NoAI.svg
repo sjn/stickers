@@ -60,19 +60,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.1254px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.4855"
-       x="12.299036"
-       y="18.445719"
+       x="12.799263"
+       y="18.243735"
        id="text2"
        transform="scale(0.98986831,1.0102354)"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.1254px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.4855"
-         x="12.299036"
-         y="18.445719">AI</tspan></text>
+         x="12.799263"
+         y="18.243735">AI</tspan></text>
     <path
        id="path1"
-       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#b81b0e;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1;fill-opacity:1"
-       d="M 12.500012 0 C 5.6112594 0 1.2533184e-15 5.6112598 0 12.500012 C 0 19.388764 5.6112594 25.000024 12.500012 25.000024 C 19.388765 25.000024 25.000024 19.388764 25.000024 12.500012 C 25.000024 5.6112598 19.388765 1.2533184e-15 12.500012 0 z M 12.500012 2.5001058 C 14.816633 2.5001058 16.944829 3.2811335 18.637105 4.5950684 L 4.5950684 18.637105 C 3.2811334 16.944829 2.5001058 14.816633 2.5001058 12.500012 C 2.5001058 6.9623872 6.9623866 2.5001058 12.500012 2.5001058 z M 20.404956 6.3629191 C 21.718891 8.0551958 22.499919 10.183392 22.499919 12.500012 C 22.499919 18.037637 18.037638 22.499919 12.500012 22.499919 C 10.183392 22.499919 8.0551957 21.718891 6.3629191 20.404956 L 20.404956 6.3629191 z " />
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:#b81b0e;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 12.500012,0 c 6.888753,0 12.500012,5.6112598 12.500012,12.500012 0,6.888752 -5.611259,12.500012 -12.500012,12.500012 C 5.611259,25.000024 0,19.388764 0,12.500012 0,5.6112598 5.611259,0 12.500012,0 Z m 0,2.5001058 c -2.316621,0 -4.444817,0.7810277 -6.137093,2.0949626 L 20.404956,18.637105 c 1.313935,-1.692276 2.094962,-3.820472 2.094962,-6.137093 0,-5.5376248 -4.462281,-9.9999062 -9.999906,-9.9999062 z M 4.595068,6.3629191 C 3.281133,8.0551958 2.500105,10.183392 2.500105,12.500012 c 0,5.537625 4.462281,9.999907 9.999907,9.999907 2.31662,0 4.444816,-0.781028 6.137093,-2.094963 z" />
   </g>
   <metadata
      id="metadata1">
