@@ -10,9 +10,9 @@
    id="svg12"
    sodipodi:docname="metacpan-light-logo-sticker.svg"
    inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
-   inkscape:export-filename="../af3662c7/metacpan-light-logo-sticker.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="../20d8aca4/metacpan-light-logo-sticker.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,11 +29,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
-     inkscape:zoom="1.354031"
-     inkscape:cx="171.70951"
-     inkscape:cy="58.713574"
-     inkscape:window-width="1260"
-     inkscape:window-height="947"
+     inkscape:zoom="0.9574445"
+     inkscape:cx="172.85597"
+     inkscape:cy="55.355689"
+     inkscape:window-width="1107"
+     inkscape:window-height="1196"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -66,6 +66,19 @@
        inkscape:label=""
        inkscape:color="rgb(0,134,229)" />
   </sodipodi:namedview>
+  <rect
+     style="opacity:0.977462;fill:#ffffff;fill-opacity:1;stroke-width:0.459936;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.459936, 1.37981;paint-order:markers stroke fill"
+     id="rect10"
+     width="78"
+     height="25"
+     x="0"
+     y="-1.332232e-07"
+     rx="5"
+     ry="5" />
+  <use
+     href="#logo"
+     id="use12"
+     transform="matrix(0.81281841,0,0,0.81281841,7.2960649,-226.51721)" />
   <symbol
      id="dots"
      fill="#da2037"
@@ -147,17 +160,4 @@
        id="use11"
        transform="translate(-0.005,-282)" />
   </symbol>
-  <rect
-     style="opacity:0.977462;fill:#ffffff;fill-opacity:1;stroke-width:0.459936;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.459936, 1.37981;paint-order:markers stroke fill"
-     id="rect10"
-     width="78"
-     height="25"
-     x="0"
-     y="-1.332232e-07"
-     rx="5"
-     ry="5" />
-  <use
-     href="#logo"
-     id="use12"
-     transform="matrix(0.81281841,0,0,0.81281841,7.2960649,-226.51721)" />
 </svg>
